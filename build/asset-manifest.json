@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/danielleliv/R2Net/static/css/main.4134a185.chunk.css",
+    "main.js": "/danielleliv/R2Net/static/js/main.0049bd60.chunk.js",
+    "main.js.map": "/danielleliv/R2Net/static/js/main.0049bd60.chunk.js.map",
+    "runtime-main.js": "/danielleliv/R2Net/static/js/runtime-main.5b4c3c0b.js",
+    "runtime-main.js.map": "/danielleliv/R2Net/static/js/runtime-main.5b4c3c0b.js.map",
+    "static/js/2.16493778.chunk.js": "/danielleliv/R2Net/static/js/2.16493778.chunk.js",
+    "static/js/2.16493778.chunk.js.map": "/danielleliv/R2Net/static/js/2.16493778.chunk.js.map",
+    "index.html": "/danielleliv/R2Net/index.html",
+    "precache-manifest.3270df051a365682942b2ed1509ed759.js": "/danielleliv/R2Net/precache-manifest.3270df051a365682942b2ed1509ed759.js",
+    "service-worker.js": "/danielleliv/R2Net/service-worker.js",
+    "static/css/main.4134a185.chunk.css.map": "/danielleliv/R2Net/static/css/main.4134a185.chunk.css.map"
+  }
+}

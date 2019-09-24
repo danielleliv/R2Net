@@ -1,0 +1,22 @@
+.leftBottom {
+    border: 1px solid red;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    transition: 1s;
+}
+
+.leftBottom:after {
+    content: "down";
+    font-size: 12px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.moved{
+  transform: translateY(-50px);
+  transition: 1s;
+}

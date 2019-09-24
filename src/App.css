@@ -1,0 +1,43 @@
+
+.row{
+    margin-top: 10px;
+}
+
+.float-box{
+    float: left;
+}
+
+.box{
+    border: 1px solid green;
+    width: 30px;
+    height: 30px;
+
+}
+.outer {
+    height: 80%;
+    width:80%;
+    border: 1px solid;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    margin: auto;
+}
+
+
+.center{
+    border: 1px solid green;
+    width: 30px;
+    height: 30px;
+    margin: auto;
+}
+
+.new-row{
+    clear: both;
+}
+
+.absolute-center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
